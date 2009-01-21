@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="guigen.features"
+      label="Gui modeling feature"
+      version="1.0.0">
+
+   <description url="http://dsp.csi.it">
+      Modellazione GUI
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      (C) 2008
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      DSP
+   </license>
+
+   <plugin
+         id="guigen"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="guigen.editor"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
