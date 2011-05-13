@@ -2,7 +2,7 @@
 <feature
       id="guigen.features"
       label="Application Modeling and Generation Feature"
-      version="1.6.0.034">
+      version="1.6.1.001">
 
    <description url="http://dsp.csi.it">
       Modellazione GUI
@@ -20,14 +20,14 @@
          id="guigen"
          download-size="0"
          install-size="0"
-         version="1.6.0.034"
+         version="1.6.1.001"
          unpack="false"/>
 
    <plugin
          id="guigen.editor"
          download-size="0"
          install-size="0"
-         version="1.6.0.034"
+         version="1.6.1.001"
          unpack="false"/>
 
 </feature>
