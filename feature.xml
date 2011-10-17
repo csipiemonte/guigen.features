@@ -2,7 +2,7 @@
 <feature
       id="guigen.features"
       label="Application Modeling and Generation Feature"
-      version="1.6.1.032">
+      version="1.6.2.001">
 
    <description>
       Modellazione e generazione applicazioni end user
@@ -297,20 +297,20 @@ seguenti:
          id="guigen"
          download-size="0"
          install-size="0"
-         version="1.6.1.032"
+         version="1.6.2.001"
          unpack="false"/>
 
    <plugin
          id="guigen.editor"
          download-size="0"
          install-size="0"
-         version="1.6.1.032"
+         version="1.6.2.001"
          unpack="false"/>
 
    <plugin
          id="guigen.docs"
          download-size="0"
          install-size="0"
-         version="1.6.1.032"/>
+         version="1.6.2.001"/>
 
 </feature>
