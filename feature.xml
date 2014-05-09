@@ -297,20 +297,20 @@ seguenti:
          id="guigen"
          download-size="0"
          install-size="0"
-         version="2.6.0.004"
+         version="2.6.0.005"
          unpack="false"/>
 
    <plugin
          id="guigen.editor"
          download-size="0"
          install-size="0"
-         version="2.6.0.004"
+         version="2.6.0.005"
          unpack="false"/>
 
    <plugin
          id="guigen.docs"
          download-size="0"
          install-size="0"
-         version="2.6.0.004"/>
+         version="2.6.0.005"/>
 
 </feature>
