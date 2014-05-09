@@ -2,7 +2,7 @@
 <feature
       id="guigen.features"
       label="Application Modeling and Generation Feature"
-      version="2.6.0.004">
+      version="2.6.0.005">
 
    <description>
       Modellazione e generazione applicazioni end user
